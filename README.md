@@ -7,7 +7,7 @@ cd Herbal-Garden
 ```
 
 ```bash
-
+npm install
 ```
 
 ```bash
